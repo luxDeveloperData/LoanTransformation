@@ -1,0 +1,5 @@
+{
+  "input_dir": "C:/Users/prasa/practiceSpark/data/source",
+  "loan_details" : "C:/Users/prasa/practiceSpark/data/bank/transferagent/loan_details",
+   "file_name" : "IND_LOAN_*.csv"
+}
